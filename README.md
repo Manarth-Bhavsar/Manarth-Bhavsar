@@ -1,5 +1,10 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
+###
+
+<p align="left">My name is Manarth Bhavsar. I study security at UMD📚.</p>
+
+###
 <!--
 **Manarth-Bhavsar/Manarth-Bhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
