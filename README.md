@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">My name is Manarth Bhavsar. I study security at UMD📚.</p>
+<p align="left">My name is Manarth Bhavsar. I study security at UMD📚</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🧑🏻‍💻 I love to CTF.<br>Teams: UMGrads, Xertz</p>
 
 ###
 <!--
