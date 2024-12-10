@@ -17,7 +17,7 @@ Hi! I'm <b>Manarth Bhavsar</b>, a passionate security student at <b>University o
 
 <h3 align="left">💡 Interests</h3>
 <ul>
-  <li><b>CTFs:</b> Member of <b>UMGrads</b> and <b>Xertz</b> teams.</li>
+  <li><b>CTFs:</b> Member of <b>UMGrads</b> and <b>Xertz</b>.</li>
   <li><b>Coding:</b> Always improving on <a href="https://leetcode.com/u/Manarth/" target="_blank">💻LeetCode</a>.</li>
   <li><b>Research:</b> Check out my publication: 
     <a href="https://ieeexplore.ieee.org/abstract/document/10351329" target="_blank">
